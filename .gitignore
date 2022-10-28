@@ -1,0 +1,18 @@
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# End of https://www.toptal.com/developers/gitignore/api/sbt,metals,vscode,sonarqube
+
+### Jetbrains IDEs ###
+.idea/
+/app.cmd
+/gitlab-env.txt
+
+
+# npm install folder
+node_modules/
